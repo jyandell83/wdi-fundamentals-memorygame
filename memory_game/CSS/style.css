@@ -86,6 +86,10 @@ img {
 	font-weight: 700;
 }
 
+.scoreboard {
+	font-family: 'Orbitron', sans-serif;
+}
+
 .clearfix:after {
 visibility: hidden;
 display: block;
